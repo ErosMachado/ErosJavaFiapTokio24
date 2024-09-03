@@ -20,4 +20,4 @@ public class ExercicioDesafio {
         
 		scanner.close();
 	}
-}
+}//alteração
